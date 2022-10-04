@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d58ea37f-e60e-4b7d-b46b-f9a62814df89" name="Changes" comment="Aula 3">
-      <change afterPath="$PROJECT_DIR$/Aula_03_2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_03_2/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_03_2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_03_2/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_03_2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_03_2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_03_2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_03_2/Aula_03_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_03_2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_03_2/src/main/java/pt/utad/mei/aps/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_03_2/src/main/java/pt/utad/mei/aps/Pool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_03_2/src/main/java/pt/utad/mei/aps/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_03_2/src/main/java/pt/utad/mei/aps/PrinterPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d58ea37f-e60e-4b7d-b46b-f9a62814df89" name="Changes" comment="Aula 3 - ex. 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +84,7 @@
       <updated>1664880176436</updated>
       <workItem from="1664880177734" duration="184000" />
       <workItem from="1664880372337" duration="36000" />
-      <workItem from="1664881189731" duration="2597000" />
+      <workItem from="1664881189731" duration="2730000" />
     </task>
     <task id="LOCAL-00001" summary="Aula 3">
       <created>1664880327306</created>
@@ -112,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664880327306</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Aula 3 - ex. 2">
+      <created>1664883876263</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664883876263</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +119,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Aula 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula 3" />
+    <MESSAGE value="Aula 3 - ex. 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 3 - ex. 2" />
   </component>
 </project>
