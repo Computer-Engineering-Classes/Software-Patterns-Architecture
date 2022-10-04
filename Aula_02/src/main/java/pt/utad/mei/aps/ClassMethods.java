@@ -24,7 +24,7 @@ public class ClassMethods {
             }
 
             var exceptionTypes = method.getExceptionTypes();
-            System.out.println("\nExceções: " + exceptionTypes.length);
+            System.out.println("\nException types: " + exceptionTypes.length);
 
             for (var exceptionType : exceptionTypes) {
                 System.out.println("\t\t" + exceptionType);
