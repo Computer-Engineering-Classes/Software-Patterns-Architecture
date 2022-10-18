@@ -5,16 +5,13 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/Aula02/pom.xml" />
-        <option value="$PROJECT_DIR$/Aula03_ObjectPool/pom.xml" />
-        <option value="$PROJECT_DIR$/Aula03_Singleton/pom.xml" />
-        <option value="$PROJECT_DIR$/Aula04_Prototype/pom.xml" />
         <option value="$PROJECT_DIR$/Ex3_3/pom.xml" />
         <option value="$PROJECT_DIR$/Ex4_2/pom.xml" />
         <option value="$PROJECT_DIR$/Ex5_2/pom.xml" />
         <option value="$PROJECT_DIR$/Aula03/pom.xml" />
         <option value="$PROJECT_DIR$/Aula03_2/pom.xml" />
-        <option value="$PROJECT_DIR$/Aula_04/pom.xml" />
-        <option value="$PROJECT_DIR$/Aula_05/pom.xml" />
+        <option value="$PROJECT_DIR$/Aula05/pom.xml" />
+        <option value="$PROJECT_DIR$/Aula04/pom.xml" />
       </list>
     </option>
   </component>
