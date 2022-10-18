@@ -8,6 +8,6 @@ public class HeavyWeight implements Vehicle {
 
     @Override
     public void show() {
-        System.out.println("PESADO: " + getMotor());
+        System.out.println("HEAVYWEIGHT: " + getMotor());
     }
 }
