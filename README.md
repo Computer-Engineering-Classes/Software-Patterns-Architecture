@@ -4,11 +4,11 @@ Software Patterns and Architecture class.
 
 ## Design Patterns:
 
-| Project  | Pattern          |
-|----------|------------------|
-| Aula 2   | Reflect          |
-| Aula 3   | Singleton        |
-| Aula 3.2 | Object Pool      |
-| Aula 4   | Prototype        |
-| Aula 5   | Abstract Factory |
-| Ex. 6    | Builder          |
+| Pattern                  | Project           |
+|--------------------------|-------------------|
+| Reflect                  | Aula 2            |
+| Singleton                | Aula 3, Ex. 3.3   |
+| Object Pool              | Aula 3.2, Ex. 4.2 |
+| Prototype                | Aula 4, Ex. 5.2   |
+| Builder                  | Ex. 6.1           |
+| Abstract Factory, Method | Aula 5            |

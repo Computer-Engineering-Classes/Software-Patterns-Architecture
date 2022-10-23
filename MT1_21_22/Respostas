@@ -1,0 +1,6 @@
+Exercícios:
+
+2.1 - AbstractStorageFactory,
+    StorageFactory,
+    Storage (classe abstrata),
+    Ram, FileSystem, Database, Cloud
