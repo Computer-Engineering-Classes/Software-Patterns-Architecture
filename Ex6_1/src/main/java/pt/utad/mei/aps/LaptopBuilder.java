@@ -26,9 +26,6 @@ public class LaptopBuilder implements Builder {
         this.diskSpace = diskSpace;
     }
 
-    public void setModelName(String modelName) {
-    }
-
     public Laptop getResult() {
         return new Laptop(CPU, GPU, RAM, diskSpace);
     }
