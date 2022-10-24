@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Aula05" />
+        <module name="Aula03_2" />
+        <module name="Aula03" />
+        <module name="Aula04" />
+        <module name="Aula02" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Aula02" target="19" />
+      <module name="Aula03" target="19" />
+      <module name="Aula03_2" target="19" />
+      <module name="Aula04" target="19" />
+      <module name="Aula05" target="19" />
+      <module name="Aula_04" target="19" />
+      <module name="Aula_05" target="19" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

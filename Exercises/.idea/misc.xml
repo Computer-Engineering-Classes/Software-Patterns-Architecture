@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Ex3_3/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex4_2/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex5_2/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex6_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex8_2/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK" />
+</project>

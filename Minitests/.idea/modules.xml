@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MT1_18_19/MT1_18_19.iml" filepath="$PROJECT_DIR$/MT1_18_19/MT1_18_19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MT1_19_20/MT1_19_20.iml" filepath="$PROJECT_DIR$/MT1_19_20/MT1_19_20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MT1_21_22/MT1_21_22.iml" filepath="$PROJECT_DIR$/MT1_21_22/MT1_21_22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MT1_22_23/MT1_22_23.iml" filepath="$PROJECT_DIR$/MT1_22_23/MT1_22_23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Minitests.iml" filepath="$PROJECT_DIR$/.idea/Minitests.iml" />
+    </modules>
+  </component>
+</project>
