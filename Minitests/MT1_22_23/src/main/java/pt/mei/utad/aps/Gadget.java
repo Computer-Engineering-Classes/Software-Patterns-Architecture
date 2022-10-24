@@ -1,4 +1,4 @@
-package pt.utad;
+package pt.mei.utad.aps;
 
 import java.util.Objects;
 

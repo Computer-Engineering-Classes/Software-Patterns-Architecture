@@ -1,4 +1,4 @@
-package pt.utad;
+package pt.mei.utad.aps;
 
 public class BlueGadget extends Gadget {
     public BlueGadget(int x, int y) {

@@ -1,4 +1,4 @@
-package pt.utad;
+package pt.mei.utad.aps;
 
 public class GreenGadget extends Gadget {
     public GreenGadget(int x, int y) {
