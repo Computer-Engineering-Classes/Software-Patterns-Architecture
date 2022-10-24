@@ -1,0 +1,15 @@
+
+1.1. Os participantes são:
+ - As classes concretas de Gadget: BlueGadget, RedGadget, GreenGadget
+ - A classe Client
+
+2. O padrão que deve ser implementado é o Factory Method. Como pretendemos criar conectores de redes sociais com base
+numa interface comum, sem nos preocuparmos com as especificidades de cada rede social, o Factory Method permite isto mesmo,
+ao fornecer uma interface comum para criar subclasses de conectores consoante as redes.
+
+Os participantes neste padrão seriam:
+ - O cliente: Client
+ - O criador de conectores: ConnectorCreator
+ - O conector genérico: Connector
+ - Conectores concretos: FacebookConnector, TwitterConnector, etc.
+ - Criadores concretos: FBConnectorCreator, TTConnectorCreator, etc.
