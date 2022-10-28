@@ -2,20 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Aulas/Aula02/Aula02.iml" filepath="$PROJECT_DIR$/Aulas/Aula02/Aula02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Aulas/Aula03/Aula03.iml" filepath="$PROJECT_DIR$/Aulas/Aula03/Aula03.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Aulas/Aula03_2/Aula03_2.iml" filepath="$PROJECT_DIR$/Aulas/Aula03_2/Aula03_2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Aulas/Aula04/Aula04.iml" filepath="$PROJECT_DIR$/Aulas/Aula04/Aula04.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Aulas/Aula05/Aula05.iml" filepath="$PROJECT_DIR$/Aulas/Aula05/Aula05.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Ex3_3/Ex3_3.iml" filepath="$PROJECT_DIR$/Exercises/Ex3_3/Ex3_3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Ex4_2/Ex4_2.iml" filepath="$PROJECT_DIR$/Exercises/Ex4_2/Ex4_2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Ex5_2/Ex5_2.iml" filepath="$PROJECT_DIR$/Exercises/Ex5_2/Ex5_2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Ex6_1/Ex6_1.iml" filepath="$PROJECT_DIR$/Exercises/Ex6_1/Ex6_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Ex8_2/Ex8_2.iml" filepath="$PROJECT_DIR$/Exercises/Ex8_2/Ex8_2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Minitests/MT1_18_19/MT1_18_19.iml" filepath="$PROJECT_DIR$/Minitests/MT1_18_19/MT1_18_19.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Minitests/MT1_19_20/MT1_19_20.iml" filepath="$PROJECT_DIR$/Minitests/MT1_19_20/MT1_19_20.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Minitests/MT1_21_22/MT1_21_22.iml" filepath="$PROJECT_DIR$/Minitests/MT1_21_22/MT1_21_22.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Minitests/MT1_22_23/MT1_22_23.iml" filepath="$PROJECT_DIR$/Minitests/MT1_22_23/MT1_22_23.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SW Patterns and Architecture.iml" filepath="$PROJECT_DIR$/.idea/SW Patterns and Architecture.iml" />
     </modules>
   </component>
