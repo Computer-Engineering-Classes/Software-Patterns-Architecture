@@ -5,41 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="886020f9-c20c-429d-ac65-90dbfb6c1a63" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Aulas/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aulas/.idea/Aulas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aulas/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aulas/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aulas/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aulas/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aulas/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aulas/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aulas/Aula02/Aula02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aulas/Aula03/Aula03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aulas/Aula03_2/Aula03_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aulas/Aula04/Aula04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Exercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex3_3/Ex3_3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex4_2/Ex4_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex5_2/Ex5_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex6_1/Ex6_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex8_2/Ex8_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Minitests/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Minitests/.idea/Minitests.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Minitests/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Minitests/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Minitests/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Minitests/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Minitests/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Minitests/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aulas/Aula04/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aulas/Aula04/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aulas/Aula05/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aulas/Aula05/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex9_2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex9_2/src/main/java/pt/utad/mei/aps/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +20,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2GbKepyvxk52YpTLWowW1pvMkiO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,7 +35,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "C:/Users/diogo/Desktop/SW Patterns and Architecture"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -70,6 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666651946062</updated>
       <workItem from="1666651948030" duration="26000" />
+      <workItem from="1667871982722" duration="62000" />
     </task>
     <servers />
   </component>
