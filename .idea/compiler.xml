@@ -21,10 +21,12 @@
         <module name="Ex4_2" />
         <module name="MT1_18_19" />
         <module name="Ex9_2" />
+        <module name="Aula08_2" />
         <module name="Ex8_2" />
         <module name="Aula06_2" />
         <module name="Aula07_2" />
         <module name="Aula07" />
+        <module name="Aula08" />
       </profile>
     </annotationProcessing>
   </component>
