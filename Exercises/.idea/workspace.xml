@@ -4,67 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="886020f9-c20c-429d-ac65-90dbfb6c1a63" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ex9_2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex9_2/src/main/java/pt/utad/mei/aps/Main.java" afterDir="false" />
+    <list default="true" id="9164fc0d-12b2-4c5b-9002-1c21dfd75c41" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Ex02/Ex02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex03_3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex03_3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex03_3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex03_3/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex03_3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex03_3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex03_3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex03_3/Ex3_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex03_3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex03_3/src/main/java/pt/utad/mei/aps/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex03_3/src/main/java/pt/utad/mei/aps/Level.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex03_3/src/main/java/pt/utad/mei/aps/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex03_3/src/main/java/pt/utad/mei/aps/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2GbKepyvxk52YpTLWowW1pvMkiO" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_opened_file_path": "C:/Users/diogo/Desktop/SW Patterns and Architecture"
-  }
-}]]></component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="886020f9-c20c-429d-ac65-90dbfb6c1a63" name="Changes" comment="" />
-      <created>1666651946062</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1666651946062</updated>
-      <workItem from="1666651948030" duration="26000" />
-      <workItem from="1667871982722" duration="62000" />
-    </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>

@@ -1,15 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/Ex3_3/pom.xml" />
-        <option value="$PROJECT_DIR$/Ex4_2/pom.xml" />
-        <option value="$PROJECT_DIR$/Ex5_2/pom.xml" />
-        <option value="$PROJECT_DIR$/Ex6_1/pom.xml" />
-        <option value="$PROJECT_DIR$/Ex8_2/pom.xml" />
-        <option value="$PROJECT_DIR$/Ex9_2/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex02/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex03_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex04_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex05_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex08_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex09_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex10_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex11_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex12_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex13_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex14_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex04_2/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex08_2/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex03_3/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex05_2/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex06_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex09_2/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex15_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex16_1/pom.xml" />
       </list>
     </option>
   </component>

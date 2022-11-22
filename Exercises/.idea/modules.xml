@@ -2,6 +2,25 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ex02/Ex02.iml" filepath="$PROJECT_DIR$/Ex02/Ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex03_1/Ex03_1.iml" filepath="$PROJECT_DIR$/Ex03_1/Ex03_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex03_3/Ex03_3.iml" filepath="$PROJECT_DIR$/Ex03_3/Ex03_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex04_1/Ex04_1.iml" filepath="$PROJECT_DIR$/Ex04_1/Ex04_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex04_2/Ex04_2.iml" filepath="$PROJECT_DIR$/Ex04_2/Ex04_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex05_1/Ex05_1.iml" filepath="$PROJECT_DIR$/Ex05_1/Ex05_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex05_2/Ex05_2.iml" filepath="$PROJECT_DIR$/Ex05_2/Ex05_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex06_1/Ex06_1.iml" filepath="$PROJECT_DIR$/Ex06_1/Ex06_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex08_1/Ex08_1.iml" filepath="$PROJECT_DIR$/Ex08_1/Ex08_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex08_2/Ex08_2.iml" filepath="$PROJECT_DIR$/Ex08_2/Ex08_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex09_1/Ex09_1.iml" filepath="$PROJECT_DIR$/Ex09_1/Ex09_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex09_2/Ex09_2.iml" filepath="$PROJECT_DIR$/Ex09_2/Ex09_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex10_1/Ex10_1.iml" filepath="$PROJECT_DIR$/Ex10_1/Ex10_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex11_1/Ex11_1.iml" filepath="$PROJECT_DIR$/Ex11_1/Ex11_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex12_1/Ex12_1.iml" filepath="$PROJECT_DIR$/Ex12_1/Ex12_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex13_1/Ex13_1.iml" filepath="$PROJECT_DIR$/Ex13_1/Ex13_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex14_1/Ex14_1.iml" filepath="$PROJECT_DIR$/Ex14_1/Ex14_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex15_1/Ex15_1.iml" filepath="$PROJECT_DIR$/Ex15_1/Ex15_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex16_1/Ex16_1.iml" filepath="$PROJECT_DIR$/Ex16_1/Ex16_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Exercises.iml" filepath="$PROJECT_DIR$/.idea/Exercises.iml" />
     </modules>
   </component>

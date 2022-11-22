@@ -1,17 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/Ex3_3/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Ex3_3/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Ex4_2/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Ex4_2/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Ex5_2/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Ex5_2/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Ex6_1/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Ex6_1/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Ex8_2/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Ex8_2/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Ex9_2/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Ex9_2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex03_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex03_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex03_3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex03_3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex04_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex04_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex04_2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex04_2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex05_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex05_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex05_2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex05_2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex06_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex06_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex08_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex08_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex08_2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex08_2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex09_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex09_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex09_2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex09_2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex10_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex10_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex11_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex11_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex12_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex12_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex13_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex13_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex14_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex14_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex15_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex15_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex16_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex16_1/src/main/resources" charset="UTF-8" />
   </component>
 </project>
