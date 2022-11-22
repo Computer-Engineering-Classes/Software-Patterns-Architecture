@@ -1,4 +1,4 @@
-package p.utad.mei.aps;
+package pt.utad.mei.aps;
 
 import java.util.Arrays;
 
