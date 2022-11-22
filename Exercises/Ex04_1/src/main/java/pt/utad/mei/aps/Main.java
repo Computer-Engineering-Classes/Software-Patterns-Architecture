@@ -3,7 +3,7 @@ package pt.utad.mei.aps;
 public class Main {
 
     public static void main(String[] args) {
-        var pool = new PrinterPool(5);
+        PrinterPool pool = new PrinterPool(5);
         pool.ListPrinters();
 
         var printer = pool.get();

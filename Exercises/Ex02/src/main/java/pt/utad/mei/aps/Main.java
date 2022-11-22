@@ -7,9 +7,9 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class Main {
-
     public static void main(String[] args) {
-        var person = new Person("Diogo", LocalDate.of(2001, Month.NOVEMBER, 20));
+        var birthDate = LocalDate.of(2001, Month.NOVEMBER, 20);
+        var person = new Person("Diogo", birthDate);
         try {
             var classObj = Class.forName("pt.utad.mei.aps.Person");
 
@@ -27,7 +27,7 @@ public class Main {
 
         } catch (ClassNotFoundException | NoSuchMethodException | SecurityException | IllegalAccessException |
                  InvocationTargetException | NoSuchFieldException ex) {
-            Logger.getLogger(Ex02.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
 
