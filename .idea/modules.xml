@@ -2,31 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BlochBuilderPattern/BlochBuilderPattern.iml" filepath="$PROJECT_DIR$/BlochBuilderPattern/BlochBuilderPattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BuilderPattern/BuilderPattern.iml" filepath="$PROJECT_DIR$/BuilderPattern/BuilderPattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Ex02/Ex02.iml" filepath="$PROJECT_DIR$/Exercises/Ex02/Ex02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Ex03_1/Ex03_1.iml" filepath="$PROJECT_DIR$/Exercises/Ex03_1/Ex03_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Ex03_3/Ex03_3.iml" filepath="$PROJECT_DIR$/Exercises/Ex03_3/Ex03_3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Ex04_1/Ex04_1.iml" filepath="$PROJECT_DIR$/Exercises/Ex04_1/Ex04_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Ex04_2/Ex04_2.iml" filepath="$PROJECT_DIR$/Exercises/Ex04_2/Ex04_2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Ex05_1/Ex05_1.iml" filepath="$PROJECT_DIR$/Exercises/Ex05_1/Ex05_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Ex05_2/Ex05_2.iml" filepath="$PROJECT_DIR$/Exercises/Ex05_2/Ex05_2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Ex06_1/Ex06_1.iml" filepath="$PROJECT_DIR$/Exercises/Ex06_1/Ex06_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Ex08_1/Ex08_1.iml" filepath="$PROJECT_DIR$/Exercises/Ex08_1/Ex08_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Ex08_2/Ex08_2.iml" filepath="$PROJECT_DIR$/Exercises/Ex08_2/Ex08_2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Ex09_1/Ex09_1.iml" filepath="$PROJECT_DIR$/Exercises/Ex09_1/Ex09_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Ex09_2/Ex09_2.iml" filepath="$PROJECT_DIR$/Exercises/Ex09_2/Ex09_2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Ex10_1/Ex10_1.iml" filepath="$PROJECT_DIR$/Exercises/Ex10_1/Ex10_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Ex11_1/Ex11_1.iml" filepath="$PROJECT_DIR$/Exercises/Ex11_1/Ex11_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Ex12_1/Ex12_1.iml" filepath="$PROJECT_DIR$/Exercises/Ex12_1/Ex12_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Ex13_1/Ex13_1.iml" filepath="$PROJECT_DIR$/Exercises/Ex13_1/Ex13_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Ex14_1/Ex14_1.iml" filepath="$PROJECT_DIR$/Exercises/Ex14_1/Ex14_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Ex15_1/Ex15_1.iml" filepath="$PROJECT_DIR$/Exercises/Ex15_1/Ex15_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Ex16_1/Ex16_1.iml" filepath="$PROJECT_DIR$/Exercises/Ex16_1/Ex16_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Minitests/MT1_18_19/MT1_18_19.iml" filepath="$PROJECT_DIR$/Minitests/MT1_18_19/MT1_18_19.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Minitests/MT1_19_20/MT1_19_20.iml" filepath="$PROJECT_DIR$/Minitests/MT1_19_20/MT1_19_20.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Minitests/MT1_21_22/MT1_21_22.iml" filepath="$PROJECT_DIR$/Minitests/MT1_21_22/MT1_21_22.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Minitests/MT1_22_23/MT1_22_23.iml" filepath="$PROJECT_DIR$/Minitests/MT1_22_23/MT1_22_23.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SW Patterns and Architecture.iml" filepath="$PROJECT_DIR$/.idea/SW Patterns and Architecture.iml" />
     </modules>
   </component>

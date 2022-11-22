@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -31,6 +32,11 @@
         <option value="$PROJECT_DIR$/Exercises/Ex04_1/pom.xml" />
         <option value="$PROJECT_DIR$/Exercises/Ex04_2/pom.xml" />
         <option value="$PROJECT_DIR$/Exercises/Ex05_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercises/Ex11_2/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercises/Ex11_3/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercises/Ex13_2/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercises/Ex03_2/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercises/Ex15_2/pom.xml" />
       </list>
     </option>
   </component>

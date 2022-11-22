@@ -11,16 +11,21 @@
         <module name="Ex11_1" />
         <module name="MT1_21_22" />
         <module name="Ex12_1" />
+        <module name="Ex11_2" />
         <module name="Ex13_1" />
+        <module name="Ex11_3" />
         <module name="Ex14_1" />
         <module name="MT1_18_19" />
+        <module name="Ex13_2" />
         <module name="Ex15_1" />
         <module name="Ex16_1" />
+        <module name="Ex15_2" />
         <module name="BlochBuilderPattern" />
         <module name="Ex02" />
         <module name="MT1_22_23" />
         <module name="Ex03_1" />
         <module name="Ex04_1" />
+        <module name="Ex03_2" />
         <module name="Ex03_3" />
         <module name="BuilderPattern" />
         <module name="Ex04_2" />
@@ -33,32 +38,5 @@
         <module name="Ex09_2" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="BlochBuilderPattern" target="19" />
-      <module name="BuilderPattern" target="19" />
-      <module name="Ex02" target="19" />
-      <module name="Ex03_1" target="19" />
-      <module name="Ex03_3" target="19" />
-      <module name="Ex04_1" target="19" />
-      <module name="Ex04_2" target="19" />
-      <module name="Ex05_1" target="19" />
-      <module name="Ex05_2" target="19" />
-      <module name="Ex06_1" target="19" />
-      <module name="Ex08_1" target="19" />
-      <module name="Ex08_2" target="19" />
-      <module name="Ex09_1" target="19" />
-      <module name="Ex09_2" target="19" />
-      <module name="Ex10_1" target="19" />
-      <module name="Ex11_1" target="19" />
-      <module name="Ex12_1" target="19" />
-      <module name="Ex13_1" target="19" />
-      <module name="Ex14_1" target="19" />
-      <module name="Ex15_1" target="19" />
-      <module name="Ex16_1" target="19" />
-      <module name="MT1_18_19" target="19" />
-      <module name="MT1_19_20" target="19" />
-      <module name="MT1_21_22" target="19" />
-      <module name="MT1_22_23" target="19" />
-    </bytecodeTargetLevel>
   </component>
 </project>
