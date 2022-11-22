@@ -1,6 +1,6 @@
 # SW Patterns and Architecture
 
-Software Patterns and Architecture class.
+Exercises from class "Software Patterns and Architecture".
 
 ## Design Patterns:
 
