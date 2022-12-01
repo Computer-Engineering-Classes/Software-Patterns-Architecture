@@ -1,6 +1,6 @@
 package pt.utad.mei.aps;
 
-public class Engenheiro {
+public class Engenheiro extends CasaBuilder {
     private final Builder builder;
 
     public Engenheiro(CasaBuilder builder) {

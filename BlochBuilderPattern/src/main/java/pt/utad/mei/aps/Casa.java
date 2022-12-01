@@ -1,20 +1,15 @@
 package pt.utad.mei.aps;
 
-public class Casa {
-    private final String paredes;
-    private final String portas;
-    private final String janelas;
-    private final String telhado;
-    private final boolean temJardim;
-    private final boolean temPiscina;
-
+public record Casa(String paredes, String portas, String janelas, String telhado, boolean temJardim,
+                   boolean temPiscina) {
     private Casa(Builder builder) {
-        paredes = builder.paredes;
-        portas = builder.portas;
-        janelas = builder.janelas;
-        telhado = builder.telhado;
-        temJardim = builder.temJardim;
-        temPiscina = builder.temPiscina;
+        this(builder.paredes, builder.portas, builder.janelas, builder.telhado, builder.temJardim, builder.temPiscina);
+    }
+
+    @Override
+    public String toString() {
+        return String.format("Casa{paredes='%s', portas='%s', janelas='%s', telhado='%s', temJardim=%s, temPiscina=%s}",
+                paredes, portas, janelas, telhado, temJardim, temPiscina);
     }
 
     public static class Builder {
@@ -45,30 +40,18 @@ public class Casa {
             return this;
         }
 
-        public Builder temJardim() {
-            this.temJardim = true;
+        public Builder temJardim(boolean temJardim) {
+            this.temJardim = temJardim;
             return this;
         }
 
-        public Builder temPiscina() {
-            this.temPiscina = true;
+        public Builder temPiscina(boolean temPiscina) {
+            this.temPiscina = temPiscina;
             return this;
         }
 
         public Casa build() {
             return new Casa(this);
         }
-    }
-
-    @Override
-    public String toString() {
-        return "Casa{" +
-                "paredes='" + paredes + '\'' +
-                ", portas='" + portas + '\'' +
-                ", janelas='" + janelas + '\'' +
-                ", telhado='" + telhado + '\'' +
-                ", temJardim=" + temJardim +
-                ", temPiscina=" + temPiscina +
-                '}';
     }
 }

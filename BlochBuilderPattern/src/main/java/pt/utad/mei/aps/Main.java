@@ -7,8 +7,8 @@ public class Main {
                 .janelas("2x, 40x60cm")
                 .portas("1x, Carvalho")
                 .telhado("Telha")
-                .temJardim()
-                .temPiscina()
+                .temJardim(true)
+                .temPiscina(true)
                 .build();
         System.out.println("Casa: " + casa);
 

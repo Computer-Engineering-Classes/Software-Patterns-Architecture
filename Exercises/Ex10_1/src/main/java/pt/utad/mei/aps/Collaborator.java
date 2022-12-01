@@ -1,7 +1,7 @@
 package pt.utad.mei.aps;
 
 public abstract class Collaborator {
-    protected Task task;
+    private Task task;
 
     public Collaborator(Task task) {
         this.task = task;

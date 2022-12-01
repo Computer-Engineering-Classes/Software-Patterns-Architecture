@@ -8,6 +8,6 @@ public class Tester extends Collaborator {
     @Override
     public void produce() {
         System.out.println("Tester is working...");
-        this.task.doTask();
+        getTask().doTask();
     }
 }

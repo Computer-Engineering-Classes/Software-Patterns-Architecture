@@ -1,18 +1,19 @@
 package pt.utad.mei.aps;
 
-public class ExtendedEmployee extends EmployeeDecorator {
+public class ExtendedEmployee implements IEmployee {
+    private final Employee employee;
     private final String email;
     private final String phone;
 
     public ExtendedEmployee(Employee employee, String email, String phone) {
-        super(employee);
+        this.employee = employee;
         this.email = email;
         this.phone = phone;
     }
 
     @Override
     public void details() {
-        super.details();
+        employee.details();
         System.out.println("Email: " + email);
         System.out.println("Phone: " + phone);
     }
