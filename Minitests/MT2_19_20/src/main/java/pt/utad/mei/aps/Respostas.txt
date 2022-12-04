@@ -1,0 +1,9 @@
+1.1 Observer; Os participantes deste padrão seriam:
+    - CarTank: Observable O objeto que será observado.
+    - Car: ConcreteObserver O objeto que observa o CarTank e implementa a interface Observer.
+    - CarTankObserver: Observer A interface que define o método de atualização.
+
+1.2 Adapter; Os participantes deste padrão seriam:
+- Times, Multiply: Service são os serviços que serão adaptados.
+- Multiplication: AdapterInterface é a interface que define os métodos que serão adaptados.
+- TimesAdapter, MultiplyAdapter: Adapter, são as classes que adaptam os serviços.

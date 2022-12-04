@@ -1,0 +1,10 @@
+1.1 Observer; Os participantes do padrão seriam:
+    - MusicStore: ConcreteSubject a classe que possui o estado que será observado
+    - Listener: Observer a classe que irá observar o estado de MusicStore
+    - RadioStation: ConcreteObserver a classe que irá observar o estado de MusicStore
+
+1.2 Flyweight; Os participantes do padrão seriam:
+    - CheckersPiece: Context representa uma peça de damas que terá uma posição única e a cor partilhada
+    - Color: Flyweight representa a cor da peça de damas
+    - ColorFactory: FlyweightFactory representa a fábrica de cores
+Caso as posições das peças fossem armazenadas fora do contexto, poderíamos recorrer ao padrão Prototype para criar novas peças de damas.

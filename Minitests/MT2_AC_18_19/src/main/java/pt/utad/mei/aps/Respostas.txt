@@ -1,0 +1,4 @@
+1.1 Observer; Os participantes deste padrão seriam:
+    - Car: Observable classe a ser observada
+    - Driver: Observer classe que observa o carro
+    - CarObserver: Interface que define o método de atualização

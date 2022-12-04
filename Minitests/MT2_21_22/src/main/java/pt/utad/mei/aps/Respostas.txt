@@ -1,0 +1,8 @@
+1.1 Dado que necessitamos de receber os dados de temperatura em Celsius e a biblioteca externa nos fornece os dados
+em Fahrenheit, precisamos de implementar a nossa interface para que ela possa converter os dados de Fahrenheit para Celsius.
+Assim, o padrão a utilizar é o Adapter.
+
+2.1 Padrão Observer; Os participantes deste padrão seriam:
+    - RssFeed: Observable objeto a ser observado, caso um novo aviso seja publicado, todos os observadores serão notificados.
+    - RssFeedObserver: Interface que define o método de notificação.
+    - RssFeedReader: Classe que implementa a interface RssFeedObserver e que será notificada quando um novo aviso for publicado.
