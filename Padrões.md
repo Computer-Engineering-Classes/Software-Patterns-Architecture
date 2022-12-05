@@ -5,7 +5,7 @@
 ### Objetivo
 
 Converter a interface de uma classe para outra interface que o cliente espera. O Adapter permite que classes com
-interfaces incompatíveis trabalhem em conjunto - o que de outra forma seria impossível.
+interfaces incompatíveis trabalhem em conjunto — o que de outra forma seria impossível.
 
 ### Participantes
 
@@ -62,8 +62,8 @@ para estender a funcionalidade.
 
 ### Objetivo
 
-Prover uma interface unificada para um conjunto de interfaces em um subsistema. O Facade define uma interface de nível
-mais alto que torna o subsistema mais fácil de ser usado.
+Prover uma interface unificada para um conjunto de interfaces num subsistema. O Facade define uma interface de nível
+mais alto que torna o subsistema fácil de ser usado.
 
 ### Participantes
 
@@ -77,12 +77,11 @@ mais alto que torna o subsistema mais fácil de ser usado.
 
 ### Objetivo
 
-O Flyweight reduz o custo de armazenamento ao compartilhar objetos que são semelhantes em vez de armazenar objetos
-individuais.
+O Flyweight reduz o custo de armazenamento ao compartilhar objetos semelhantes em vez de armazenar objetos individuais.
 
 ### Participantes
 
 1) Flyweight: declara uma interface que é comum a todos os objetos de suporte.
-2) ConcreteFlyweight: implementa a interface Flyweight e adiciona estado que é único para um objeto concreto.
+2) ConcreteFlyweight: implementa a interface Flyweight e adiciona estado único para um objeto concreto.
 3) FlyweightFactory: cria e gere objetos Flyweight. Garante que objetos Flyweight sejam compartilhados corretamente.
 4) Context: armazena o estado extrínseco de um objeto Flyweight.

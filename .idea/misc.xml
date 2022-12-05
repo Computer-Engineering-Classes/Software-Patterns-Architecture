@@ -25,6 +25,14 @@
         <option value="$PROJECT_DIR$/Minitests/MT2_21_22/pom.xml" />
         <option value="$PROJECT_DIR$/Minitests/MT2_AC_18_19/pom.xml" />
         <option value="$PROJECT_DIR$/Exercises/Ex14_2/pom.xml" />
+        <option value="$PROJECT_DIR$/RefactoringGuru/GuruFacade/pom.xml" />
+        <option value="$PROJECT_DIR$/RefactoringGuru/GuruDecorator/pom.xml" />
+        <option value="$PROJECT_DIR$/RefactoringGuru/GuruComposite/pom.xml" />
+        <option value="$PROJECT_DIR$/RefactoringGuru/GuruBridge/pom.xml" />
+        <option value="$PROJECT_DIR$/RefactoringGuru/GuruAdapter/pom.xml" />
+        <option value="$PROJECT_DIR$/RefactoringGuru/Flyweight/pom.xml" />
+        <option value="$PROJECT_DIR$/RefactoringGuru/GuruFlyweight/pom.xml" />
+        <option value="$PROJECT_DIR$/Minitests/MT2_22_23/pom.xml" />
       </list>
     </option>
   </component>
