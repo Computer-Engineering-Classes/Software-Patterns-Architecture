@@ -1,4 +1,6 @@
-package pt.utad.mei.aps;public class Mug implements StampableObject {
+package pt.utad.mei.aps;
+
+public class Mug implements StampableObject {
     private final String name;
     private final double price;
 

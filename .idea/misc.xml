@@ -7,32 +7,28 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/Exercises/Ex09_1/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercises/Ex09_2/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercises/Ex10_1/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercises/Ex11_1/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercises/Ex12_1/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercises/Ex13_1/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercises/Ex14_1/pom.xml" />
         <option value="$PROJECT_DIR$/Exercises/Ex15_1/pom.xml" />
         <option value="$PROJECT_DIR$/Exercises/Ex16_1/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercises/Ex11_2/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercises/Ex11_3/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercises/Ex13_2/pom.xml" />
         <option value="$PROJECT_DIR$/Exercises/Ex15_2/pom.xml" />
         <option value="$PROJECT_DIR$/Minitests/MT2_18_19/pom.xml" />
         <option value="$PROJECT_DIR$/Minitests/MT2_19_20/pom.xml" />
         <option value="$PROJECT_DIR$/Minitests/MT2_21_22/pom.xml" />
         <option value="$PROJECT_DIR$/Minitests/MT2_AC_18_19/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercises/Ex14_2/pom.xml" />
-        <option value="$PROJECT_DIR$/RefactoringGuru/GuruFacade/pom.xml" />
-        <option value="$PROJECT_DIR$/RefactoringGuru/GuruDecorator/pom.xml" />
-        <option value="$PROJECT_DIR$/RefactoringGuru/GuruComposite/pom.xml" />
-        <option value="$PROJECT_DIR$/RefactoringGuru/GuruBridge/pom.xml" />
-        <option value="$PROJECT_DIR$/RefactoringGuru/GuruAdapter/pom.xml" />
         <option value="$PROJECT_DIR$/RefactoringGuru/Flyweight/pom.xml" />
-        <option value="$PROJECT_DIR$/RefactoringGuru/GuruFlyweight/pom.xml" />
-        <option value="$PROJECT_DIR$/Minitests/MT2_22_23/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercises/Ex17_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercises/Ex17_2/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercises/Ex18_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercises/Ex18_2/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercises/Ex14_2/pom.xml" />
+        <option value="$PROJECT_DIR$/Exs/Ex14_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Exs/Ex14_2/pom.xml" />
+        <option value="$PROJECT_DIR$/Exs/Ex15_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Exs/Ex15_2/pom.xml" />
+        <option value="$PROJECT_DIR$/Exs/Ex16_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Exs/Ex17_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Exs/Ex17_2/pom.xml" />
+        <option value="$PROJECT_DIR$/Exs/Ex18_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Exs/Ex18_2/pom.xml" />
       </list>
     </option>
   </component>

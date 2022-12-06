@@ -1,0 +1,22 @@
+1.1. Participantes do Decorator:
+    — Text: Component que representa um texto renderizável.
+    — PlainText: ConcreteComponent que representa um texto simples.
+    — TextDecorator: BaseDecorator que representa um decorador de texto;
+    implementa a interface RenderableText e mantém uma referência para um RenderableText.
+    — BoldText: ConcreteDecorator que representa um texto em negrito.
+    — ItalicText: ConcreteDecorator que representa um texto em itálico.
+    — UnderlineText: ConcreteDecorator que representa um texto sublinhado.
+
+2. O padrão a ser usado seria o Adapter. Visto que a biblioteca externa contém o método getPosition que retorna as
+coordenadas no formato Graus Decimais (DD), enquanto o sistema interno utiliza o formato Graus Minutos Segundos (DMS),
+seria necessário um adaptador que converta de coordenadas 'DD' para 'DMS'. Assim, tratando a biblioteca externa como um
+Service e o sistema interno como um Client, o padrão Adapter seria o mais adequado para a situação.
+
+O Adapter permite adaptar o serviço disponibilizado pela biblioteca externa para o formato esperado pelo sistema interno,
+já que esta não possui o método necessário para a conversão de coordenadas 'DD' para 'DMS' e não pode ser alterada.
+
+Participantes do Adapter:
+    — Client: Usa a interface Target para acessar o serviço, através do CoordenadasDDAdapter;
+    — Target: define interface que representa o SW interno e contém o método getPosition que retorna as coordenadas no formato 'DMS';
+    — CoordenadasDD: Service que define a interface que representa um serviço que retorna coordenadas no formato 'DD';
+    — CoordenadasDDAdapter: Adapter que implementa a interface Target e adapta CoordenadasDD para retornar no formato DMS.

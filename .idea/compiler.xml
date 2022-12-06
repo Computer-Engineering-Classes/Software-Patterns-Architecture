@@ -6,31 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="GuruBridge" />
-        <module name="GuruComposite" />
         <module name="MT2_21_22" />
-        <module name="GuruFlyweight" />
-        <module name="Ex10_1" />
-        <module name="Ex11_1" />
-        <module name="Ex12_1" />
-        <module name="Ex11_2" />
-        <module name="Ex13_1" />
-        <module name="Ex11_3" />
-        <module name="GuruFacade" />
         <module name="Ex14_1" />
-        <module name="Ex13_2" />
-        <module name="Ex15_1" />
         <module name="Ex14_2" />
-        <module name="Ex16_1" />
+        <module name="Ex15_1" />
         <module name="Ex15_2" />
-        <module name="MT2_22_23" />
-        <module name="GuruDecorator" />
+        <module name="Ex16_1" />
+        <module name="Ex17_1" />
+        <module name="Ex17_2" />
+        <module name="Ex18_1" />
+        <module name="Ex18_2" />
         <module name="MT2_18_19" />
         <module name="MT2_19_20" />
-        <module name="GuruAdapter" />
         <module name="MT2_AC_18_19" />
-        <module name="Ex09_1" />
-        <module name="Ex09_2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -47,10 +35,26 @@
       <module name="Ex06_1" target="19" />
       <module name="Ex08_1" target="19" />
       <module name="Ex08_2" target="19" />
+      <module name="Ex09_1" target="19" />
+      <module name="Ex09_2" target="19" />
+      <module name="Ex10_1" target="19" />
+      <module name="Ex11_1" target="19" />
+      <module name="Ex11_2" target="19" />
+      <module name="Ex11_3" target="19" />
+      <module name="Ex12_1" target="19" />
+      <module name="Ex13_1" target="19" />
+      <module name="Ex13_2" target="19" />
+      <module name="GuruAdapter" target="19" />
+      <module name="GuruBridge" target="19" />
+      <module name="GuruComposite" target="19" />
+      <module name="GuruDecorator" target="19" />
+      <module name="GuruFacade" target="19" />
+      <module name="GuruFlyweight" target="19" />
       <module name="MT1_18_19" target="19" />
       <module name="MT1_19_20" target="19" />
       <module name="MT1_21_22" target="19" />
       <module name="MT1_22_23" target="19" />
+      <module name="MT2_22_23" target="19" />
     </bytecodeTargetLevel>
   </component>
 </project>
