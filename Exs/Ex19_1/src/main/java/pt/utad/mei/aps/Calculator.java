@@ -1,15 +1,17 @@
 package pt.utad.mei.aps;
 
+import java.math.BigDecimal;
+import java.math.RoundingMode;
 import java.util.Scanner;
 
 // Originator
 public class Calculator {
-    private double result;
+    private BigDecimal result;
     private String operator;
     private String commandText;
 
     public Calculator() {
-        result = 0;
+        result = BigDecimal.ZERO;
         operator = "";
         commandText = "0";
     }
@@ -18,7 +20,7 @@ public class Calculator {
         System.out.print("Enter operator: ");
         Scanner scanner = new Scanner(System.in);
         operator = scanner.next();
-        if (!operator.matches("[+\\-*/uUeE]")) {
+        if (!operator.matches("[+\\-*/%uUeE]")) {
             System.out.println("Invalid operator");
             operator = "";
         }
@@ -28,17 +30,22 @@ public class Calculator {
     public void readNumber() {
         System.out.print("Enter number: ");
         Scanner scanner = new Scanner(System.in);
-        double operand = scanner.nextDouble();
+        BigDecimal operand = scanner.nextBigDecimal();
+        performOperation(operand);
+    }
+
+    private void performOperation(BigDecimal operand) {
         if (operator.equals("")) {
             result = operand;
-            commandText = String.valueOf(operand);
+            commandText = operand.toString();
             return;
         }
         switch (operator) {
-            case "+" -> result += operand;
-            case "-" -> result -= operand;
-            case "*" -> result *= operand;
-            case "/" -> result /= operand;
+            case "+" -> result = result.add(operand);
+            case "-" -> result = result.subtract(operand);
+            case "*" -> result = result.multiply(operand);
+            case "/" -> result = result.divide(operand, 10, RoundingMode.HALF_UP);
+            case "%" -> result = result.remainder(operand);
         }
         commandText += " " + operator + " " + operand;
     }
@@ -57,6 +64,6 @@ public class Calculator {
         System.out.println(commandText + " = " + result);
     }
 
-    record Memento(double result, String operator, String commandText) {
+    record Memento(BigDecimal result, String operator, String commandText) {
     }
 }

@@ -14,7 +14,7 @@ public class Main {
                     history.undo();
                     calculator.print();
                 }
-            } while (!operator.matches("[+\\-*/eE]"));
+            } while (!operator.matches("[+\\-*/%eE]"));
             history.backup();
         } while (!operator.matches("[eE]"));
     }
