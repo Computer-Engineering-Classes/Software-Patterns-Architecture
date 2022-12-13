@@ -32,12 +32,8 @@ public class Calculator {
         if (operator.equals("")) {
             result = operand;
             commandText = String.valueOf(operand);
-        } else {
-            performOperation(operand);
+            return;
         }
-    }
-
-    private void performOperation(double operand) {
         switch (operator) {
             case "+" -> result += operand;
             case "-" -> result -= operand;
@@ -52,36 +48,15 @@ public class Calculator {
     }
 
     public void restore(Memento memento) {
-        result = memento.getResult();
-        operator = memento.getOperator();
-        commandText = memento.getCommandText();
+        result = memento.result();
+        operator = memento.operator();
+        commandText = memento.commandText();
     }
 
     public void print() {
         System.out.println(commandText + " = " + result);
     }
 
-    public static class Memento {
-        private final double result;
-        private final String operator;
-        private final String commandText;
-
-        private Memento(double result, String operator, String commandText) {
-            this.result = result;
-            this.operator = operator;
-            this.commandText = commandText;
-        }
-
-        private double getResult() {
-            return result;
-        }
-
-        private String getOperator() {
-            return operator;
-        }
-
-        String getCommandText() {
-            return commandText;
-        }
+    public record Memento(double result, String operator, String commandText) {
     }
 }

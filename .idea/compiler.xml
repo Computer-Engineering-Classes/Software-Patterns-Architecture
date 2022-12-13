@@ -8,9 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="MT2_21_22" />
         <module name="MT2_18_19" />
-        <module name="Ex14_1" />
         <module name="MT2_19_20" />
-        <module name="Ex14_2" />
         <module name="Ex15_1" />
         <module name="MT2_AC_18_19" />
         <module name="Ex15_2" />
@@ -20,6 +18,7 @@
         <module name="Ex18_1" />
         <module name="Ex18_2" />
         <module name="Ex19_1" />
+        <module name="Ex19_2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -45,6 +44,8 @@
       <module name="Ex12_1" target="19" />
       <module name="Ex13_1" target="19" />
       <module name="Ex13_2" target="19" />
+      <module name="Ex14_1" target="19" />
+      <module name="Ex14_2" target="19" />
       <module name="GuruAdapter" target="19" />
       <module name="GuruBridge" target="19" />
       <module name="GuruComposite" target="19" />

@@ -7,7 +7,6 @@ public class Main {
         String operator;
         do {
             calculator.readNumber();
-            history.backup();
             calculator.print();
             do {
                 operator = calculator.readOperator();
@@ -16,6 +15,7 @@ public class Main {
                     calculator.print();
                 }
             } while (!operator.matches("[+\\-*/eE]"));
+            history.backup();
         } while (!operator.matches("[eE]"));
     }
 }
