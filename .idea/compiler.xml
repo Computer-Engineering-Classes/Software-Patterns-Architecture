@@ -7,18 +7,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="MT2_21_22" />
+        <module name="MT2_18_19" />
         <module name="Ex14_1" />
+        <module name="MT2_19_20" />
         <module name="Ex14_2" />
         <module name="Ex15_1" />
+        <module name="MT2_AC_18_19" />
         <module name="Ex15_2" />
         <module name="Ex16_1" />
         <module name="Ex17_1" />
         <module name="Ex17_2" />
         <module name="Ex18_1" />
         <module name="Ex18_2" />
-        <module name="MT2_18_19" />
-        <module name="MT2_19_20" />
-        <module name="MT2_AC_18_19" />
+        <module name="Ex19_1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

@@ -125,7 +125,7 @@ Exercises from class "Software Patterns and Architecture".
         <td>N/A</td>
     </tr>
     <tr>
-        <td rowspan="4">Behavioral</td>
+        <td rowspan="6">Behavioral</td>
         <td>Chain of Responsibility</td>
         <td>
             <a href="Exs/Ex15_1">Ex. 15.1</a>
@@ -165,4 +165,19 @@ Exercises from class "Software Patterns and Architecture".
         </td>
         <td>N/A</td>
     </tr>
+    <tr>
+        <td>Memento</td>
+        <td>
+            <a href="Exs/Ex19_1">Ex. 19.1</a>
+            <br>
+            <a href="Exs/Ex19_2">Ex. 19.2</a>
+        </td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>State</td>
+        <td>
+            <a href="Exs/Ex20_1">Ex. 20.1</a>
+        </td>
+        <td>N/A</td>
 </table>
