@@ -57,6 +57,6 @@ public class Calculator {
         System.out.println(commandText + " = " + result);
     }
 
-    public record Memento(double result, String operator, String commandText) {
+    record Memento(double result, String operator, String commandText) {
     }
 }
