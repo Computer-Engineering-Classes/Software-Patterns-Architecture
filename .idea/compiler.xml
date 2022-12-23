@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="MT2_21_22" />
+        <module name="MT2_22_23" />
+        <module name="Ex20_1" />
         <module name="MT2_18_19" />
         <module name="MT2_19_20" />
         <module name="Ex15_1" />
@@ -56,7 +58,6 @@
       <module name="MT1_19_20" target="19" />
       <module name="MT1_21_22" target="19" />
       <module name="MT1_22_23" target="19" />
-      <module name="MT2_22_23" target="19" />
     </bytecodeTargetLevel>
   </component>
 </project>
