@@ -2,13 +2,7 @@
 
 Exercises from class "Software Patterns and Architecture".
 
-## Design Patterns:
-
-<style>
-    td {
-        text-align: center;
-    }
-</style>
+## Design Patterns
 
 <table>
     <tr>
