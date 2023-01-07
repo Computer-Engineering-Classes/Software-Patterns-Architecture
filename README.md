@@ -140,7 +140,7 @@ Exercises from class "Software Patterns and Architecture".
         <td>
             <a href="Minitests/MT2_18_19">MT2 2018/19</a>
             <br>
-            <a href="Minitests/MT2_AC_18_19">MT2 AC 2018/19</a>
+            <a href="Minitests/MT2_18_19_AC">MT2 AC 2018/19</a>
             <br>
             <a href="Minitests/MT2_19_20">MT2 2019/20</a>
             <br>
