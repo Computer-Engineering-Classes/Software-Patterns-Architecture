@@ -4,8 +4,8 @@ import java.math.BigDecimal;
 
 public class Main {
     public static void main(String[] args) {
-        var dispenser = new ChangeDispenser(2);
-        var dispenser2 = new ChangeDispenser(1);
+        var dispenser = new ChangeDispenser(2.0);
+        var dispenser2 = new ChangeDispenser(1.0);
         var dispenser3 = new ChangeDispenser(0.5);
         var dispenser4 = new ChangeDispenser(0.2);
         var dispenser5 = new ChangeDispenser(0.1);

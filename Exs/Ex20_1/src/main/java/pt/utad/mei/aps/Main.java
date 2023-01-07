@@ -4,9 +4,9 @@ public class Main {
     public static void main(String[] args) {
         Room room = new Room(5, new ClosedRoomState());
 
+        room.enter("T1234");
         room.enter("AL1111");
         room.enter("AL2222");
-        room.enter("T1234");
         room.enter("AL1111");
         room.enter("AL1111");
         room.enter("AL2222");

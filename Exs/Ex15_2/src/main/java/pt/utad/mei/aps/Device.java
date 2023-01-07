@@ -1,6 +1,6 @@
 package pt.utad.mei.aps;
 
-public enum DEVICE {
+public enum Device {
     STDOUT,
     STDERR,
     FILE

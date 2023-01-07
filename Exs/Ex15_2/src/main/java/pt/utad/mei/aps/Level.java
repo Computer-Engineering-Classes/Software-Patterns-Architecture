@@ -1,5 +1,5 @@
 package pt.utad.mei.aps;
 
-public enum LEVEL {
+public enum Level {
     INFO, DEBUG, ERROR
 }

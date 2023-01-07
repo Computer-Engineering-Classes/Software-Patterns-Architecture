@@ -1,7 +1,7 @@
 package pt.utad.mei.aps;
 
 import java.math.BigDecimal;
-import java.math.RoundingMode;
+import java.math.MathContext;
 import java.util.Scanner;
 
 // Originator
@@ -12,8 +12,8 @@ public class Calculator {
 
     public Calculator() {
         result = BigDecimal.ZERO;
+        commandText = String.valueOf(result);
         operator = "";
-        commandText = "0";
     }
 
     public String readOperator() {
@@ -44,7 +44,7 @@ public class Calculator {
             case "+" -> result = result.add(operand);
             case "-" -> result = result.subtract(operand);
             case "*" -> result = result.multiply(operand);
-            case "/" -> result = result.divide(operand, 10, RoundingMode.HALF_UP);
+            case "/" -> result = result.divide(operand, MathContext.DECIMAL32);
             case "%" -> result = result.remainder(operand);
         }
         commandText += " " + operator + " " + operand;

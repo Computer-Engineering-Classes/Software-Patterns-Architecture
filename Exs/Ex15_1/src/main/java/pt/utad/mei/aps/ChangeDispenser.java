@@ -24,8 +24,7 @@ public class ChangeDispenser implements Dispenser {
             if (remainder.compareTo(BigDecimal.ZERO) > 0 && next != null) {
                 next.change(remainder);
             }
-        }
-        else if (next != null) {
+        } else if (next != null) {
             next.change(amount);
         }
     }

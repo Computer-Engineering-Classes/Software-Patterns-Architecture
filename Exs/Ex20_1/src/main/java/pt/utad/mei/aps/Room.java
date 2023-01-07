@@ -1,17 +1,17 @@
 package pt.utad.mei.aps;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.HashSet;
+import java.util.Set;
 
 // Context class
 public class Room {
-    private final List<String> RFIDs;
+    private final Set<String> RFIDs;
     private final int maxCapacity;
     private RoomState state;
 
     public Room(int maxCapacity, RoomState state) {
         this.maxCapacity = maxCapacity;
-        this.RFIDs = new ArrayList<>();
+        this.RFIDs = new HashSet<>(maxCapacity);
         this.state = state;
         this.state.setRoom(this);
     }
@@ -33,19 +33,21 @@ public class Room {
         this.state.setRoom(this);
     }
 
-    public Boolean isPresent(String RFID) {
-        return RFIDs.contains(RFID);
-    }
-
     public boolean isFull() {
         return RFIDs.size() == maxCapacity;
     }
 
-    public void letIn(String RFID) {
-        RFIDs.add(RFID);
+    /**
+     * @return true if the RFID was not already in the room
+     */
+    public boolean letIn(String RFID) {
+        return RFIDs.add(RFID);
     }
 
-    public void letOut(String RFID) {
-        RFIDs.remove(RFID);
+    /**
+     * @return true if the RFID was in the room
+     */
+    public boolean letOut(String RFID) {
+        return RFIDs.remove(RFID);
     }
 }

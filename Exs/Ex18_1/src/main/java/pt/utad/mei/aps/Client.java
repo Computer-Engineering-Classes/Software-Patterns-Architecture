@@ -19,6 +19,7 @@ public class Client {
         return amountAvailable;
     }
 
+    @SuppressWarnings("unused")
     public void setAmountAvailable(double amountAvailable) {
         this.amountAvailable = amountAvailable;
     }
@@ -27,6 +28,7 @@ public class Client {
         return amountInvested;
     }
 
+    @SuppressWarnings("unused")
     public void setAmountInvested(double amountInvested) {
         this.amountInvested = amountInvested;
     }

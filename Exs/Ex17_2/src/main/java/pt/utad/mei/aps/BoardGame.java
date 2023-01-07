@@ -17,40 +17,61 @@ public abstract class BoardGame {
         this.players = new ArrayList<>();
     }
 
+    private static char readChar() {
+        Scanner scanner = new Scanner(System.in);
+        return scanner.next().charAt(0);
+    }
+
+    public String getName() {
+        return name;
+    }
+
     public boolean playGame() {
         newGame();
         pickPieces();
         pickPlayers();
         do {
             showScore();
-            playTurn();
+            for (String player : players) {
+                playTurn(player);
+            }
         } while (!gameOver());
         endGame();
         return playAgain();
     }
 
-    public abstract void newGame();
+    protected abstract void newGame();
 
-    public abstract void pickPieces();
-
-    public abstract void pickPlayers();
-
-    public abstract void showScore();
-
-    public abstract boolean gameOver();
-
-    public abstract void playTurn();
-
-    public abstract void endGame();
-
-    public abstract boolean playAgain();
-
-    public String getName() {
-        return name;
+    private void pickPieces() {
+        System.out.println("Picking " + numberOfPieces + " pieces");
     }
 
-    protected char readChar() {
+    private void pickPlayers() {
+        System.out.println("Picking " + numberOfPlayers + " players");
+        for (int i = 0; i < numberOfPlayers; i++) {
+            players.add("Player " + (i + 1));
+        }
+    }
+
+    private void showScore() {
+        System.out.println("Showing " + numberOfPlayers + " scores");
+    }
+
+    private boolean playAgain() {
+        System.out.println("Do you want to play " + name + " again? (y/n)");
+        return readChar() == 'y';
+    }
+
+    private void endGame() {
+        System.out.println("Game over of " + name);
+    }
+
+    private void playTurn(String player) {
+        System.out.printf("Player '%s': ", player);
         Scanner scanner = new Scanner(System.in);
-        return scanner.next().charAt(0);
+        String play = scanner.nextLine();
+        System.out.printf("Player '%s' played: %s\n", player, play);
     }
+
+    protected abstract boolean gameOver();
 }

@@ -1,21 +1,21 @@
 package pt.utad.mei.aps;
 
-public class Logger {
-    private final LEVEL level;
-    private final DEVICE device;
+public class Logger implements ILogger {
+    private final Level level;
+    private final Device device;
 
-    private Logger nextLogger;
+    private ILogger nextLogger;
 
-    public Logger(LEVEL level, DEVICE device) {
+    public Logger(Level level, Device device) {
         this.level = level;
         this.device = device;
     }
 
-    public void setNextLogger(Logger nextLogger) {
+    public void setNextLogger(ILogger nextLogger) {
         this.nextLogger = nextLogger;
     }
 
-    public void log(LEVEL level, String message) {
+    public void log(String message, Level level) {
         if (this.level == level) {
             switch (device) {
                 case STDOUT -> System.out.println(message);
@@ -24,7 +24,7 @@ public class Logger {
             }
         }
         if (nextLogger != null) {
-            nextLogger.log(level, message);
+            nextLogger.log(message, level);
         }
     }
 }
