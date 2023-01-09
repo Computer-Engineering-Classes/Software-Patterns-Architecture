@@ -25,18 +25,18 @@ quando um objeto muda de estado, todos os seus dependentes são notificados e at
 - ConcreteObserver — mantém uma referência para um objeto ConcreteSubject. Armazena o estado do ConcreteSubject.
   Implementa a interface Observer para atualizar o estado do ConcreteObserver quando o estado do ConcreteSubject muda.
 
-# Template Method
+## Template Method
 
 O Template Method é um padrão de projeto comportamental que define o esqueleto de um algoritmo na superclasse, mas
 permite que as subclasses substituam etapas específicas do algoritmo sem alterar a sua estrutura.
 
 ### Participantes
 
-— AbstractClass define operações primitivas que devem ser implementadas por suas subclasses e implementa uma operação
+- AbstractClass define operações primitivas que devem ser implementadas por suas subclasses e implementa uma operação
 template que chama essas operações primitivas.
-— ConcreteClass implementa as operações primitivas para executar etapas específicas de um algoritmo.
+- ConcreteClass implementa as operações primitivas para executar etapas específicas de um algoritmo.
 
-# Strategy
+## Strategy
 
 O Strategy é um padrão de projeto comportamental que permite que defina uma família de algoritmos, coloque cada um numa
 classe separada e faça os seus objetos intercambiáveis.
@@ -61,7 +61,7 @@ revelar os detalhes da sua implementação.
   do Originator, a menos que o Originator o faça.
 - Caretaker — é responsável por manter o objeto Memento. Não opera ou examina o conteúdo do Memento.
 
-# State
+## State
 
 O State é um padrão de projeto comportamental que permite que um objeto altere o seu comportamento quando o seu estado
 interno muda. Parece que o objeto mudou de classe.

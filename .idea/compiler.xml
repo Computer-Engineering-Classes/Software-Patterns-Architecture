@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="MT2_18_19_AC" />
+        <module name="MT3_22_23" />
         <module name="MT2_21_22" />
         <module name="MT2_22_23" />
         <module name="Ex20_1" />

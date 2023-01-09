@@ -1,0 +1,24 @@
+1.1. Para poder enviar atualizações dos canais RSS aos utilizadores, implementaria o padrão Observer.
+
+Os seus participantes são:
+— RssFeed (Subject/Publisher): neste caso, o Subject é o canal RSS, o objeto que vai ser observado,
+que vai notificar os utilizadores assim que houver uma atualização;
+— RssFeedObserver (Observer/Subscriber): neste caso, o Observer é a interface que será implementada pelos leitores de RSS;
+— RssFeedReader (ConcreteObserver/ConcreteSubscriber): neste caso, é o objeto que representa o utilizador,
+que será notificado quando houver uma atualização no canal.
+
+2. O padrão de ‘software’ Template Method será usado para implementar um sistema de compra de bilhetes para eventos
+desportivos ‘online’ para diferentes categorias de adeptos, como sócios pagantes, não pagantes e não sócios. O padrão é
+adequado porque todos os adeptos usam o mesmo sistema, contudo cada adepto tem implementações específicas. As operações
+comuns a todos os adeptos são os "passos" do template method, enquanto as operações específicas para cada adepto são
+os "hooks" para as implementações específicas nas classes concretas.
+
+Por exemplo, os sócios têm promoções disponíveis antes do pagamento e podem comprar lanches durante a compra,
+enquanto os não sócios não têm acesso a essas promoções.
+
+Os participantes deste padrão seriam:
+- AbstractClass: neste caso, a classe abstrata Adepto, que define o template method (aquisição de bilhetes), os passos
+    comuns a todos os adeptos (autenticação, escolha do lugar, pagamento do bilhete e receção via correio eletrónico do
+    mesmo) e os hooks (promoções, compra de ‘snacks’).
+- ConcreteClasses: neste caso, as classes concretas AdeptoSocio, AdeptoNaoSocio e AdeptoNaoPagante, que implementam
+    os hooks (promoções, compra de ‘snacks’).
