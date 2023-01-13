@@ -12,6 +12,7 @@
         <module name="MT2_22_23" />
         <module name="Ex20_1" />
         <module name="MT2_18_19" />
+        <module name="Ex12_1" />
         <module name="MT2_19_20" />
         <module name="Ex15_1" />
         <module name="Ex15_2" />
@@ -44,7 +45,6 @@
       <module name="Ex11_1" target="19" />
       <module name="Ex11_2" target="19" />
       <module name="Ex11_3" target="19" />
-      <module name="Ex12_1" target="19" />
       <module name="Ex13_1" target="19" />
       <module name="Ex13_2" target="19" />
       <module name="Ex14_1" target="19" />
